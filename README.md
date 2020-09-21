@@ -92,7 +92,7 @@ Punto de control de **C++** #09:
 
 ## :white_circle: Salida
 
-![](images/cout-setwOUT.png)
+![](images/cout-setwout.png)
 
 ---
 
@@ -128,7 +128,7 @@ Punto de control de **C++** #09:
 
 ## :white_circle: Salida
 
-![](images/dec_oct_hex_y_setbaseOUT.png)
+![](images/dec_oct_hex_y_setbaseout.png)
 
 ---
 
@@ -188,13 +188,13 @@ Punto de control de **C++** #09:
 
 ## :black_circle: Operaciones.cpp
 
-![](images/operacionesCPP.png)
+![](images/OperacionesCPP.png)
 
 ---
 
 ## :white_circle: Operaciones.hpp
 
-![](images/operacionesHPP.png)
+![](images/OperacionesHPP.png)
 
 ---
 
