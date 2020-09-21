@@ -177,7 +177,7 @@ Punto de control de **C++** #09:
 
 ## :white_circle: Salida
 
-![](images/scientific_y_fixedOUT.png)
+![](images/scientific_y_fixedout.png)
 
 ---
 
